@@ -13,5 +13,5 @@ crontab -e
 ```
 ### Add cron
 ```
-  */10 * * * * /home/lxc/casper-scripts/ip_watcher.sh
+*/10 * * * * /home/lxc/casper-scripts/ip_watcher.sh
 ```
